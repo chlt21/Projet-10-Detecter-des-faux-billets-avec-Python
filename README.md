@@ -8,33 +8,40 @@ Construire un modèle de prédiction pour détecter des faux billets grâce au c
   - Réaliser une analyse prédictive
   - Réaliser une régression linéaire
   - Réaliser une régression logistique
-  
-## _Import du fichier, nettoyage et analyse des données_
 
-## _Régression linéaire pour remplacer les valeurs manquantes_
+Analyse exploratoire
+Etape 1 - Importation des librairies et chargement des fichiers
 
-## _Analyse des résultats_
+1.1 - Importation des librairies
 
-## _Vérifier la colinéarité des variables_
+1.2 - Importation des fichiers et nettoyage des données
 
-## _Tester l’homoscédasticité_
+Etape 2 - Régression linéaire pour remplacer les valeurs manquantes
 
-## _Tester la normalité des résidus_
+2.1 - Analyse des résultats
 
-## _Utilisation de notre modèle pour déterminer les valeurs manquantes_
+2.2 - Vérification de la colinéarité des variables
 
-#### I - ACP
+2.3 - Test de l’homoscédasticité
 
-#### II - METHODE DES K-MEANS
+2.4 - Test de la normalité des résidus
 
-#### III - REGRESSION LOGISTIQUE
+2.5 - Utilisation de notre modèle pour déterminer les valeurs manquantes
 
-## Test du modèle de prédiction de régression logistique
+Etape 2 - ACP
 
-## _1er essai_
+Etape 3 - METHODE DES K-MEANS
+
+
+Etape 4 - REGRESSION LOGISTIQUE
+
+Etape 5 - Test du modèle de prédiction de régression logistique
+
+5.1 - 1er essai
  
-## _2ème essai_
+5.2 - 2ème essai
  
-## _Prédictions test final_
+5.3 - Prédictions test final
+
 
 
