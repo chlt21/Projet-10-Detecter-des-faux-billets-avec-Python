@@ -10,6 +10,7 @@ Construire un modèle de prédiction pour détecter des faux billets grâce au c
   - Réaliser une régression logistique
 
 Analyse exploratoire
+
 Etape 1 - Importation des librairies et chargement des fichiers
 
 1.1 - Importation des librairies
