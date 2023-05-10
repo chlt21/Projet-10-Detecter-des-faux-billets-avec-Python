@@ -13,7 +13,7 @@ Construire un modèle de prédiction pour détecter des faux billets grâce au c
 
 ## _Régression linéaire pour remplacer les valeurs manquantes_
 
-##_Analyse des résultats_
+## _Analyse des résultats_
 
 ## _Vérifier la colinéarité des variables_
 
